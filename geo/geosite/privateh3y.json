@@ -3,6 +3,10 @@
   "rules": [
     {
       "domain": [
+        "yacd.metacubex.one",
+        "clash.razord.top",
+        "yacd.haishan.me",
+        "d.metacubex.one",
         "instant.arubanetworks.com",
         "setmeup.arubanetworks.com",
         "asusrouter.com",
