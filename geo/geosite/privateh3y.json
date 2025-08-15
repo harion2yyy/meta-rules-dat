@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "courier.push.apple.com",
         "yacd.metacubex.one",
         "clash.razord.top",
         "yacd.haishan.me",
@@ -23,7 +24,7 @@
         "push.apple.com"
       ],
       "domain_suffix": [
-        
+        "push.apple.com",
         "harion2y.cn",
         "harion2y.cc",
         "myds.me",
