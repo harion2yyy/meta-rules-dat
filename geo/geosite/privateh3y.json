@@ -19,8 +19,11 @@
         "miwifi.com",
         "www.miwifi.com"
       ],
+      "domain_keyword": [
+        "push.apple.com"
+      ],
       "domain_suffix": [
-        "push.apple.com",
+        
         "harion2y.cn",
         "harion2y.cc",
         "myds.me",
