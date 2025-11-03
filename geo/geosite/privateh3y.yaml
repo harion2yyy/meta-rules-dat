@@ -20,6 +20,7 @@ payload:
     - +.synology.me
     - +.quickconnect.cn
     - +.synology.cn
+    - DOMAIN-KEYWORD,test-ipv6
 
     - +.skk.moe
     - instant.arubanetworks.com
