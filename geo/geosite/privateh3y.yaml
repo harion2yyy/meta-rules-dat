@@ -20,9 +20,8 @@ payload:
     - +.synology.me
     - +.quickconnect.cn
     - +.synology.cn
-    - +.test-ipv6.*
-    - +.fromsmash.*
-    - *transfer-storage-transfer-prod*
+
+
 
     - +.skk.moe
     - instant.arubanetworks.com
