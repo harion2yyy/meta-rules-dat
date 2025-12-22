@@ -22,7 +22,7 @@ payload:
     - +.synology.cn
     - +.test-ipv6.*
     - +.fromsmash.*
-    - transfer-storage-transfer-prod-eu-central-1.s3.eu-central-1.amazonaws.com
+    - *transfer-storage-transfer-prod*
 
     - +.skk.moe
     - instant.arubanetworks.com
