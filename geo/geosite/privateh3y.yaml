@@ -1,6 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,adobe.io,REJECT
   - DOMAIN,lcs-cops.adobe.io,直连
+  - DOMAIN-SUFFIX,adobe.io,REJECT
+  - DOMAIN-SUFFIX,adobestats.io,REJECT
+  
   - DOMAIN-SUFFIX,harion2y.cn,直连
   - DOMAIN-SUFFIX,harion2y.cc,直连
   - DOMAIN-SUFFIX,myds.me,直连
