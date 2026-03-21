@@ -1,63 +1,63 @@
 payload:
-  - DOMAIN,lcs-cops.adobe.io,直连
+  - DOMAIN,lcs-cops.adobe.io,🎯 国内直连
   - DOMAIN-SUFFIX,adobe.io,REJECT
   - DOMAIN-SUFFIX,adobestats.io,REJECT
   
-  - DOMAIN-SUFFIX,harion2y.cn,直连
-  - DOMAIN-SUFFIX,harion2y.cc,直连
-  - DOMAIN-SUFFIX,myds.me,直连
-  - DOMAIN-SUFFIX,push.apple.com,直连
-  - DOMAIN-SUFFIX,gofile.me,直连
-  - DOMAIN-SUFFIX,quickconnect.to,直连
-  - DOMAIN-SUFFIX,diskstation.me,直连
-  - DOMAIN-SUFFIX,dscloud.biz,直连
-  - DOMAIN-SUFFIX,dscloud.me,直连
-  - DOMAIN-SUFFIX,dscloud.mobi,直连
-  - DOMAIN-SUFFIX,dsmynas.com,直连
-  - DOMAIN-SUFFIX,dsmynas.net,直连
-  - DOMAIN-SUFFIX,dsmynas.org,直连
-  - DOMAIN-SUFFIX,familyds.com,直连
-  - DOMAIN-SUFFIX,familyds.net,直连
-  - DOMAIN-SUFFIX,familyds.org,直连
-  - DOMAIN-SUFFIX,i234.me,直连
-  - DOMAIN-SUFFIX,myds.me,直连
-  - DOMAIN-SUFFIX,synology.me,直连
-  - DOMAIN-SUFFIX,quickconnect.cn,直连
-  - DOMAIN-SUFFIX,synology.cn,直连
+  - DOMAIN-SUFFIX,harion2y.cn,🎯 国内直连
+  - DOMAIN-SUFFIX,harion2y.cc,🎯 国内直连
+  - DOMAIN-SUFFIX,myds.me,🎯 国内直连
+  - DOMAIN-SUFFIX,push.apple.com,🎯 国内直连
+  - DOMAIN-SUFFIX,gofile.me,🎯 国内直连
+  - DOMAIN-SUFFIX,quickconnect.to,🎯 国内直连
+  - DOMAIN-SUFFIX,diskstation.me,🎯 国内直连
+  - DOMAIN-SUFFIX,dscloud.biz,🎯 国内直连
+  - DOMAIN-SUFFIX,dscloud.me,🎯 国内直连
+  - DOMAIN-SUFFIX,dscloud.mobi,🎯 国内直连
+  - DOMAIN-SUFFIX,dsmynas.com,🎯 国内直连
+  - DOMAIN-SUFFIX,dsmynas.net,🎯 国内直连
+  - DOMAIN-SUFFIX,dsmynas.org,🎯 国内直连
+  - DOMAIN-SUFFIX,familyds.com,🎯 国内直连
+  - DOMAIN-SUFFIX,familyds.net,🎯 国内直连
+  - DOMAIN-SUFFIX,familyds.org,🎯 国内直连
+  - DOMAIN-SUFFIX,i234.me,🎯 国内直连
+  - DOMAIN-SUFFIX,myds.me,🎯 国内直连
+  - DOMAIN-SUFFIX,synology.me,🎯 国内直连
+  - DOMAIN-SUFFIX,quickconnect.cn,🎯 国内直连
+  - DOMAIN-SUFFIX,synology.cn,🎯 国内直连
 
 
 
-  - DOMAIN-SUFFIX,skk.moe,直连
-  - DOMAIN-SUFFIX,instant.arubanetworks.com,直连
-  - DOMAIN-SUFFIX,setmeup.arubanetworks.com,直连
-  - DOMAIN-SUFFIX,asusrouter.com,直连
-  - DOMAIN-SUFFIX,router.asus.com,直连
-  - DOMAIN-SUFFIX,www.asusrouter.com,直连
-  - DOMAIN-SUFFIX,oasisauth.h3c.com,直连
-  - DOMAIN-SUFFIX,routerlogin.com,直连
-  - DOMAIN-SUFFIX,www.routerlogin.com,直连
-  - DOMAIN-SUFFIX,tplogin.cn,直连
-  - DOMAIN-SUFFIX,miwifi.com,直连
+  - DOMAIN-SUFFIX,skk.moe,🎯 国内直连
+  - DOMAIN-SUFFIX,instant.arubanetworks.com,🎯 国内直连
+  - DOMAIN-SUFFIX,setmeup.arubanetworks.com,🎯 国内直连
+  - DOMAIN-SUFFIX,asusrouter.com,🎯 国内直连
+  - DOMAIN-SUFFIX,router.asus.com,🎯 国内直连
+  - DOMAIN-SUFFIX,www.asusrouter.com,🎯 国内直连
+  - DOMAIN-SUFFIX,oasisauth.h3c.com,🎯 国内直连
+  - DOMAIN-SUFFIX,routerlogin.com,🎯 国内直连
+  - DOMAIN-SUFFIX,www.routerlogin.com,🎯 国内直连
+  - DOMAIN-SUFFIX,tplogin.cn,🎯 国内直连
+  - DOMAIN-SUFFIX,miwifi.com,🎯 国内直连
 
-  - DOMAIN-SUFFIX,internal,直连
-  - DOMAIN-SUFFIX,localdomain,直连
-  - DOMAIN-SUFFIX,example,直连
-  - DOMAIN-SUFFIX,invalid,直连
-  - DOMAIN-SUFFIX,localhost,直连
-  - DOMAIN-SUFFIX,test,直连
-  - DOMAIN-SUFFIX,local,直连
-  - DOMAIN-SUFFIX,lan,直连
-  - DOMAIN-SUFFIX,zte.home,直连
-  - DOMAIN-SUFFIX,my.router,直连
-  - DOMAIN-SUFFIX,ts.net,直连
+  - DOMAIN-SUFFIX,internal,🎯 国内直连
+  - DOMAIN-SUFFIX,localdomain,🎯 国内直连
+  - DOMAIN-SUFFIX,example,🎯 国内直连
+  - DOMAIN-SUFFIX,invalid,🎯 国内直连
+  - DOMAIN-SUFFIX,localhost,🎯 国内直连
+  - DOMAIN-SUFFIX,test,🎯 国内直连
+  - DOMAIN-SUFFIX,local,🎯 国内直连
+  - DOMAIN-SUFFIX,lan,🎯 国内直连
+  - DOMAIN-SUFFIX,zte.home,🎯 国内直连
+  - DOMAIN-SUFFIX,my.router,🎯 国内直连
+  - DOMAIN-SUFFIX,ts.net,🎯 国内直连
 
-  - DOMAIN-SUFFIX,hiwifi.com,直连
-  - DOMAIN-SUFFIX,tplinkwifi.net,直连
-  - DOMAIN-SUFFIX,tendawifi.com,直连
-  - DOMAIN-SUFFIX,leike.cc,直连
-  - DOMAIN-SUFFIX,plex.direct,直连
-  - DOMAIN-SUFFIX,router.ctc,直连
-  - DOMAIN-SUFFIX,phicomm.me,直连
-  - DOMAIN-SUFFIX,peiluyou.com,直连
+  - DOMAIN-SUFFIX,hiwifi.com,🎯 国内直连
+  - DOMAIN-SUFFIX,tplinkwifi.net,🎯 国内直连
+  - DOMAIN-SUFFIX,tendawifi.com,🎯 国内直连
+  - DOMAIN-SUFFIX,leike.cc,🎯 国内直连
+  - DOMAIN-SUFFIX,plex.direct,🎯 国内直连
+  - DOMAIN-SUFFIX,router.ctc,🎯 国内直连
+  - DOMAIN-SUFFIX,phicomm.me,🎯 国内直连
+  - DOMAIN-SUFFIX,peiluyou.com,🎯 国内直连
 
-  - DOMAIN-SUFFIX,test.steampowered.com,直连
+  - DOMAIN-SUFFIX,test.steampowered.com,🎯 国内直连
