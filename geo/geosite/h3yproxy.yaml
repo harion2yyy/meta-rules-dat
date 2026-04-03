@@ -1,7 +1,6 @@
 payload:
-    - +.wetransfer.com
-    - +.wetransfer.co
 
-
+    - ^(.+\.)?wetransfer\..+$
     - ^(.+\.)?fromsmash\..+$
+    
     - +.ptchdbits.co
