@@ -1,6 +1,7 @@
 payload:
-    - +.adobe.io
-    - +.adobestats.io
-
     - +.wetransfer.com
+    - +.wetransfer.co
     - +.fromsmash.com
+    - +.fromsmash.co
+
+    - +.ptchdbits.co
