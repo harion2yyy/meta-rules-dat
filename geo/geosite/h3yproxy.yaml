@@ -3,4 +3,4 @@ payload:
     - ^(.+\.)?wetransfer\..+$
     - ^(.+\.)?fromsmash\..+$
     
-    - +.ptchdbits.co
+    - +.chdbits.co
