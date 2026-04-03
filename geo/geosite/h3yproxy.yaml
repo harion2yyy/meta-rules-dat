@@ -1,5 +1,5 @@
 payload:
-    - ^(.+\.)?wetransfer\..+$
-    - ^(.+\.)?fromsmash\..+$
+    - "^(.+\.)?wetransfer\..+$"
+    - "^(.+\.)?fromsmash\..+$"
     
     - +.chdbits.co
