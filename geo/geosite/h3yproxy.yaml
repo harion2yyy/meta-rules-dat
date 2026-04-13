@@ -1,5 +1,7 @@
 payload:
-    - "^(.+\.)?wetransfer\..+$"
-    - "^(.+\.)?fromsmash\..+$"
+    - +.wetransfer.com
+    - +.wetransfer.net
+    - +.fromsmash.com
+    - +.fromsmash.co
     
     - +.chdbits.co
