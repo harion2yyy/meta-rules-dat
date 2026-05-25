@@ -1,4 +1,8 @@
 payload:
+    - +.wetransfer.com
+    - +.wetransfer.net
+    - +.fromsmash.com
+    - +.fromsmash.co
     - +.swisstransfer.com
     
     - +.chdbits.co
