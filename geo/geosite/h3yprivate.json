@@ -21,6 +21,8 @@
         "www.miwifi.com"
       ],
       "domain_keyword": [
+        "static.cloudflareinsights.com",
+        "lcs-cops.adobe.io",
         "push.apple.com"
       ],
       "domain_suffix": [
@@ -35,6 +37,21 @@
         "pttime.org",
         "skk.moe",
         "rustdesk.com",
+        "gofile.me",
+        "quickconnect.to",
+        "diskstation.me",
+        "dscloud.biz",
+        "dscloud.me",
+        "dscloud.mobi",
+        "dsmynas.com",
+        "dsmynas.net",
+        "dsmynas.org",
+        "familyds.com",
+        "familyds.net",
+        "familyds.org",
+        "i234.me",
+        "myds.me",
+        "synology.me",
         "localdomain",
         "localdomain",
         "internal",
