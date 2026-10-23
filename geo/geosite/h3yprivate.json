@@ -24,13 +24,20 @@
         "push.apple.com"
       ],
       "domain_suffix": [
-        "push.apple.com",
         "harion2y.cn",
         "harion2y.cc",
         "synology.me",
         "myds.me",
-        "internal",
+        "quickconnect.cn"
+        "synology.cn",
+        "ptchdbits.co",
+        "btschool.club",
+        "pttime.org",
+        "skk.moe",
+        "rustdesk.com",
         "localdomain",
+        "localdomain",
+        "internal",
         "example",
         "invalid",
         "localhost",
