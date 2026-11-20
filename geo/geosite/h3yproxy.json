@@ -3,8 +3,18 @@
   "rules": [
     {
       "domain_suffix": [
-        "anxia.com",
-        "sq.cc"
+        "wetransfer.com",
+        "wetransfer.net",
+        "fromsmash.com",
+        "fromsmash.co",
+        "swisstransfer.com",
+        "infomaniak.cloud",
+        "wheel-size.cn",
+        "transfernow.net",
+        "s3.eu-central-1.amazonaws.com",
+        "files.fm",
+        "sendgb.com", 
+        "plytix.com"
       ]
     }
   ]
